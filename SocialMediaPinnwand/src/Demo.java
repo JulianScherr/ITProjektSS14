@@ -1,6 +1,6 @@
 
 public class Demo {
-	int i = 0; 
+	int i = 3; 
 }
 // lokal repository eingerichtet
 // Julian als Branch erstellt
