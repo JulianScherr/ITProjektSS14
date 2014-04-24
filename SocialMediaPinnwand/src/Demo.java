@@ -1,5 +1,5 @@
 
 public class Demo {
-	int i = 2; 
+	int i = 3; 
 }
 // lokal repository eingerichtet
