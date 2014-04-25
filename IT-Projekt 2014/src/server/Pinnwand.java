@@ -1,7 +1,7 @@
 package server;
 
 public class Pinnwand extends BusinessObject {
-	private Nutzer nutzerID = "";
+	private int nutzerID = 0;
 	
 
 }
