@@ -1,4 +1,4 @@
-package server;
+package de.hdm.itprojekt.server;
 
 import java.io.Serializable;
 

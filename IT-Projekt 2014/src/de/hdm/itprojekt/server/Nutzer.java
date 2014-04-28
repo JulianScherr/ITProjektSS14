@@ -1,4 +1,4 @@
-package server;
+package de.hdm.itprojekt.server;
 
 public class Nutzer extends BusinessObject {
 private String vorname = "";

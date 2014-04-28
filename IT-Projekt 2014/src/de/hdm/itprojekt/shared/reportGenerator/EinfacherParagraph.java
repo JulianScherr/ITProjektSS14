@@ -1,4 +1,4 @@
-package reportGenerator;
+package de.hdm.itprojekt.shared.reportGenerator;
 
 public class EinfacherParagraph extends Paragraph {
 

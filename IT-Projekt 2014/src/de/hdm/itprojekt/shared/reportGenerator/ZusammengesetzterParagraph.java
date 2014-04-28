@@ -1,4 +1,4 @@
-package reportGenerator;
+package de.hdm.itprojekt.shared.reportGenerator;
 
 import java.util.List;
 import java.util.Vector;
