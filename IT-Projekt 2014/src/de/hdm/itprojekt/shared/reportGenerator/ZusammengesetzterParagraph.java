@@ -1,11 +1,11 @@
 package de.hdm.itprojekt.shared.reportGenerator;
 
-import java.util.List;
+
 import java.util.Vector;
 
 public class ZusammengesetzterParagraph extends Paragraph {
 
-private List<EinfacherParagraph> paragraphen = new Vector<EinfacherParagraph>();
+private Vector<EinfacherParagraph> paragraphen = new Vector<EinfacherParagraph>();
 
 public void hinzufuegenParagraph( EinfacherParagraph p){
 	
@@ -14,7 +14,7 @@ public void loeschenParagraph( EinfacherParagraph p){
 	
 }
 public Vector<EinfacherParagraph> getParagraphen(){
-	
+	return paragraphen;
 }
 public int anazahlParagraphen(){
 	return paragraphen.legth;
