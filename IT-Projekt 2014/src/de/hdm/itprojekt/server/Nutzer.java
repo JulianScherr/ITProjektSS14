@@ -1,5 +1,7 @@
 package de.hdm.itprojekt.server;
 
+import de.hdm.itprojekt.shared.bo.BusinessObject;
+
 public class Nutzer extends BusinessObject {
 private String vorname = "";
 private String nachname ="";
